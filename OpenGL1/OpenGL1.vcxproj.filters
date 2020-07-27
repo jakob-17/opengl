@@ -54,5 +54,8 @@
     <Image Include="..\..\..\..\Desktop\opengl\container.jpg">
       <Filter>Images</Filter>
     </Image>
+    <Image Include="awesomeface.png">
+      <Filter>Images</Filter>
+    </Image>
   </ItemGroup>
 </Project>
